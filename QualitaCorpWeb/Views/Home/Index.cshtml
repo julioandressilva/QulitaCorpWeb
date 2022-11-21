@@ -1,0 +1,74 @@
+﻿@model QualitaCorpWeb.Entities.ViewModels.ConsultaItem
+@{
+    ViewData["Title"] = "Home Page";
+    List<SelectListItem> listFecha = Model.ListFecha;
+}
+
+<div class="card">
+    <div class="card-header">
+        Consulta de Venta por Mesero
+    </div>
+    <div class="card-body">
+        <form method="post" asp-action="ReporteMesero">
+            <div class="row align-items-end">
+                <div class="col-md-4">
+                    <label class="control-label">Mes Inicial</label>
+                    <select class="form-select" asp-for="dateIni" asp-items="listFecha"></select>
+                </div>
+                <div class="col-md-4">
+                    <label class="control-label">Mes Final</label>
+                    <select class="form-select" asp-for="dateFin" asp-items="listFecha"></select>
+                </div>
+                <div class="col-md-4">
+                    <button class="btn btn-success btn-sm" id="btnMesero" asp-action="ReporteMesero" asp-controller="home">Generar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+<div class="card">
+    <div class="card-header">
+        Consulta de Clientes por Consumo
+    </div>
+    <div class="card-body">
+        <form method="post" asp-action="ReporteCliente">
+            <div class="row align-items-end">
+                <div class="col-md-4">
+                    <label class="control-label">Mes Inicial</label>
+                    <select class="form-select" asp-for="dateIni" asp-items="listFecha"></select>
+                </div>
+                <div class="col-md-4">
+                    <label class="control-label">Mes Final</label>
+                    <select class="form-select" asp-for="dateFin" asp-items="listFecha"></select>
+                </div>
+                <div class="col-md-2">
+                    <label class="control-label">Valor</label>
+                    <input asp-for="valor" class="form-control form-control-sm" type="number" />
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-success btn-sm" id="btnCliente" asp-action="ReporteCliente">Generar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<hr />
+<div class="card">
+    <div class="card-header">
+        Consulta de Productos Ventidos
+    </div>
+    <div class="card-body">
+        <div class="row align-items-end">
+            <div class="col-md-4">
+                <label class="control-label">Mes</label>
+                <select class="form-select" asp-for="dateIni" asp-items="listFecha"></select>
+            </div>
+            <div class="col-md-4">
+                <button class="btn btn-success btn-sm" id="btnCliente">Generar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+

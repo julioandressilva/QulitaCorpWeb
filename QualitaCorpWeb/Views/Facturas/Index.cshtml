@@ -1,0 +1,53 @@
+﻿@model IEnumerable<QualitaCorpWeb.Entities.Models.Factura>
+
+@{
+    ViewData["Title"] = "Facturas";
+}
+
+<h1>Maestro de Facturas</h1>
+
+<p>
+    <a asp-action="Create">Crear nueva Factura</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+               Id Cliente
+            </th>
+            <th>
+                Id Mesa
+            </th>
+            <th>
+                Id Mesero
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdclienteNavigation.Idcliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdmesaNavigation.Idmesa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdmeseroNavigation.Idmesero)
+            </td>
+            <!--<td>
+                <a asp-action="Edit" asp-route-id="@item.Idfactura">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Idfactura">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Idfactura">Delete</a>
+            </td>-->
+        </tr>
+}
+    </tbody>
+</table>
