@@ -1,0 +1,14 @@
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\bin\Release\net6.0\QualitaCorpWeb.Entities.deps.json
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\bin\Release\net6.0\QualitaCorpWeb.Entities.runtimeconfig.json
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\bin\Release\net6.0\QualitaCorpWeb.Entities.dll
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\bin\Release\net6.0\QualitaCorpWeb.Entities.pdb
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.csproj.AssemblyReference.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.AssemblyInfoInputs.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.AssemblyInfo.cs
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.csproj.CoreCompileInputs.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.dll
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\refint\QualitaCorpWeb.Entities.dll
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.pdb
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\QualitaCorpWeb.Entities.genruntimeconfig.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Entities\obj\Release\net6.0\ref\QualitaCorpWeb.Entities.dll

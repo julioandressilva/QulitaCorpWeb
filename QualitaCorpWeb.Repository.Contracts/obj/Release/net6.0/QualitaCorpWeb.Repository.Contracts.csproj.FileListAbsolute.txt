@@ -1,0 +1,17 @@
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\bin\Release\net6.0\QualitaCorpWeb.Repository.Contracts.deps.json
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\bin\Release\net6.0\QualitaCorpWeb.Repository.Contracts.runtimeconfig.json
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\bin\Release\net6.0\QualitaCorpWeb.Repository.Contracts.dll
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\bin\Release\net6.0\QualitaCorpWeb.Repository.Contracts.pdb
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\bin\Release\net6.0\QualitaCorpWeb.Entities.dll
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\bin\Release\net6.0\QualitaCorpWeb.Entities.pdb
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.csproj.AssemblyReference.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.AssemblyInfoInputs.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.AssemblyInfo.cs
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.csproj.CopyComplete
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.dll
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\refint\QualitaCorpWeb.Repository.Contracts.dll
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.pdb
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\QualitaCorpWeb.Repository.Contracts.genruntimeconfig.cache
+C:\Users\acind106\Documents\Visual Studio 2022\Entrega\APP\QualitaCorpWeb.Repository.Contracts\obj\Release\net6.0\ref\QualitaCorpWeb.Repository.Contracts.dll
